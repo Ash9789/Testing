@@ -1,8 +1,11 @@
 # Testing
+
 Learning Git Commands
 
 ...
 
 pull commands.
 
-Hello
+Hello.
+
+Learning about branches
